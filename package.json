@@ -1,6 +1,6 @@
 {
   "name": "delicious",
-  "homepage": "http://ianb.digital/delicious",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
